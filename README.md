@@ -14,6 +14,6 @@ C++ Port
 Command Bar -> Tools -> Import and Export Settings -> Import *"Nord.vssettings"*
 ```
 
-Thanks to the Nord for the original design: 
+Thanks to the Nord team for the original design: 
 
 https://www.nordtheme.com/
