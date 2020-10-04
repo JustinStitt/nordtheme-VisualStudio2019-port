@@ -12,7 +12,6 @@ C++ Port
 **To Install w/ Visual Studio 2019**
 
 Command Bar -> Tools -> Import and Export Settings -> Import *"Nord.vssettings"*
----
 ```
 
 Thanks to the Nord for the original design: 
